@@ -1,0 +1,1 @@
+In dit programma voer je één voor één de prijzen van de producten die je gaat kopen in en als je klaar bent en zegt dat je geen producten meer hoeft in te voeren dan worden de prijzen van alle ingevoerde producten gecombineerd. Daarna wordt de totale prijs verteld en dat is wat je moet betalen. 

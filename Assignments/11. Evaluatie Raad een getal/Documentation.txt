@@ -1,0 +1,11 @@
+Aan dit programma werden enkel eisen gesteld: 
+- Min/max aangeven voor een willekeurig getal. 
+- Spel mag herhaald worden. 
+- Aantal beurten bij geraden wordt vermeld. 
+- Tussendoor stoppen. 
+Ik heb een willekeurig minimum en maximum getal dus de eerste eis is voltooid. 
+Aan het einde van het spel kun je kiezen of je nog eens wilt spelen of niet dus die eis heb ik ook voltooid. 
+Het aantal beurten wordt geteld en ook gereset als je opnieuw speelt dus die eis heb ik ook voltooid. 
+Je kunt ook tussendoor stoppen omdat er steeds gevraagd wordt: “Wil je verder spelen” dus die eis heb ik ook voltooid. 
+
+Ik heb het programma verbeterd door spelfouten te verbeteren en meer gebruik te maken van interpunctie om de tekst mooier te maken. Ik kon geen fouten in het verloop van de code vinden. 

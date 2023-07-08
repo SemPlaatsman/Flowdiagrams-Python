@@ -1,0 +1,1 @@
+Als eerste krijgt de variabele “KopMunt” een random getal en dat kan 0 of 1 zijn. Als “KopMunt” dan 0 is dan is het munt en word dat gezegd in de console. Als “KopMunt” niet 0 is (omdat “KopMunt” dan 1 is) dan is het kop en word dat gezegd in de console. 

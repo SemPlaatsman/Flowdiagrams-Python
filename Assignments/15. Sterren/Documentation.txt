@@ -1,0 +1,1 @@
+Als eerste wordt er gevraagd hoeveel sterren de speler wil zien en kan hij een waarde invullen wat de waarde van de variabele “aantal” wordt. Daarna worden de rijen gemaakt door gebruik te maken van “range” en worden de rijen uitgeprint. 

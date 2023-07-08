@@ -1,0 +1,1 @@
+Ik heb van de variabele “Naam” een string gemaakt omdat de er een tekst als input moet komen. Ik heb het & teken gebruikt om de tekst van de variabele “Naam” te krijgen. 

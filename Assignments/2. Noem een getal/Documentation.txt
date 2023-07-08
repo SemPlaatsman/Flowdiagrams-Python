@@ -1,0 +1,1 @@
+Ik heb van de variabele “Getal1” en Getal2” een Integer gemaakt omdat ik hele getallen wil. Daarna worden er 2 getallen gevraagd en kan ik die geven via de console. Daarna kijkt de Flowgorithm of “Getal1” groter is dan “Getal2”. Als dat zo is noem ik “Getal2” als eerste en “Getal1” op de tweede plek.  Als het niet zo is dan zet ik “Getal1” eerst en “Getal2” op de tweede plek. 
